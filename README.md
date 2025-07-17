@@ -12,6 +12,7 @@ Available in https://habla.news.
 
 - [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [pnpm](https://pnpm.io/installation)
+
 To run Habla locally for development, run:
 
 ```
