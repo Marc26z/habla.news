@@ -14,6 +14,11 @@ To run Habla locally for development, run:
 pnpm dev
 ```
 
+To install pmpm, run:
+```
+npm install -g pnpm
+```
+
 This should start a local server and open a browser with the project. You can now start modifying the code and see the changes in real time.
 
 ## Run your own instance
