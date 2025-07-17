@@ -19,10 +19,11 @@ To run Habla locally for development, run:
 pnpm dev
 ```
 
-1. Install npm:
+
+1. Install [node js](https://nodejs.org/en/download/current) and npm:
 
 ```
-npm install -g npm`
+npm install -g npm
 ```
 3. Install pnpm:
 
