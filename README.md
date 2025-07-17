@@ -7,13 +7,24 @@ Discover the power of decentralised blogging with Habla.news. Habla allows you t
 Available in https://habla.news.
 
 ## Contribute
+
+**prerequisites: **
+
+- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [pnpm](https://pnpm.io/installation)
 To run Habla locally for development, run:
 
 ```
 pnpm dev
 ```
 
-To install pmpm, run:
+1. Install npm:
+
+```
+npm install -g npm`
+```
+3. Install pnpm:
+
 ```
 npm install -g pnpm
 ```
@@ -21,6 +32,8 @@ npm install -g pnpm
 This should start a local server and open a browser with the project. You can now start modifying the code and see the changes in real time.
 
 ## Run your own instance
+
+`git clone https://github.com/verbiricha/habla.news.git`
 
 ```
 pnpm install
@@ -31,6 +44,6 @@ Now run:
 ```
 pnpm dev
 ```
-It will give you a url such as: https://localhost:3000
+It will give you a url such as: https://localhost:3000/
 
 
