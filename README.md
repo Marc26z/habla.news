@@ -7,7 +7,6 @@ Discover the power of decentralised blogging with Habla.news. Habla allows you t
 Available in https://habla.news.
 
 ## Contribute
-
 To run Habla locally for development, run:
 
 ```
@@ -27,3 +26,11 @@ This should start a local server and open a browser with the project. You can no
 pnpm install
 pnpm build
 ```
+Now run:
+
+```
+pnpm dev
+```
+It will give you a url such as: https://localhost:3000
+
+
